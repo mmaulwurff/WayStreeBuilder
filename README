@@ -1,0 +1,4 @@
+WaysTreeBuilder is a tool for building tree of light rays passing for game
+FREG ( https://github.com/mmaulwurff/FREG or
+https://bitbucket.org/mmaulwurff/freg ).
+Output is a cpp file with array to be compiled into the game.
